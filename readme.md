@@ -1,4 +1,5 @@
-## Hi everyone and welcome!
--Yo,Johny here!
+## Welcome to Git!
+
+-This is coming from 'dev-adrian'
 - I'm adding this from 'feature-branch'
 - 
